@@ -13,7 +13,7 @@ IDX-Carousel-Custom-Examples
 #IDX-carouselGallery-{{widgetID}} a.IDX-carouselPrevArrow {height:40px;line-height:40px; width: 20px; top:50%;border-radius:20px 0 0 20px;}
 #IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow span {top: 0; margin: 0}
 #IDX-carouselGallery-{{widgetID}} a.IDX-carouselNextArrow {height:40px;line-height:40px; width: 20px; top:50%;border-radius:0 20px 20px 0 ;}
-#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow { margin-top: -20px;}
+#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow {margin-top: -20px;}
 ```
 
 #### Mini-Square
@@ -21,10 +21,5 @@ IDX-Carousel-Custom-Examples
 
 
 ```css
-#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow {
-top: 50%;
-width: 25px;
-margin-top: -20px;
-height: 40px;
-}
+#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow {top: 50%; width: 25px; margin-top: -20px; height: 40px;}
 ```
