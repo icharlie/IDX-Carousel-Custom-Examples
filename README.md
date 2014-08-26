@@ -2,7 +2,7 @@ IDX-Carousel-Custom-Examples
 ============================
 
 ### Custom Arrow
-> Please Replace the {{widgetID}} by your widget ID
+> Please replace the {{widgetID}} by your widget ID
 
 #### Half-Circle
 
