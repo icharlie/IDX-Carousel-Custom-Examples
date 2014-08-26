@@ -6,7 +6,7 @@ IDX-Carousel-Custom-Examples
 
 #### Half-Circle
 
-![](https://raw.githubusercontent.com/icharlie/IDX-Carousel-Custom-Examples/master/images/Half-Circle.jpeg)
+![](https://raw.githubusercontent.com/icharlie/IDX-Carousel-Custom-Examples/master/images/Half-Circle.jpg)
 
 
 ```css
@@ -17,7 +17,7 @@ IDX-Carousel-Custom-Examples
 ```
 
 #### Mini-Square
-![](https://raw.githubusercontent.com/icharlie/IDX-Carousel-Custom-Examples/master/images/Mini-Square.jpeg)
+![](https://raw.githubusercontent.com/icharlie/IDX-Carousel-Custom-Examples/master/images/Mini-Square.jpg)
 
 
 ```css
