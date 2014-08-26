@@ -16,8 +16,8 @@ IDX-Carousel-Custom-Examples
 #IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow { margin-top: -20px;}
 ```
 
-#### Mini-Sqaure
-![](https://raw.githubusercontent.com/icharlie/IDX-Carousel-Custom-Examples/master/images/Mini-Sqaure.jpeg)
+#### Mini-Square
+![](https://raw.githubusercontent.com/icharlie/IDX-Carousel-Custom-Examples/master/images/Mini-Square.jpeg)
 
 
 ```css
