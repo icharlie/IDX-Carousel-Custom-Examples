@@ -23,3 +23,16 @@ IDX-Carousel-Custom-Examples
 ```css
 #IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow {top: 50%; width: 25px; margin-top: -20px; height: 40px;}
 ```
+
+
+
+#### Medium-Square
+![](https://raw.githubusercontent.com/icharlie/IDX-Carousel-Custom-Examples/master/images/Medium-Square.jpg)
+
+
+```css
+#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow {height: 60px; margin-top: 30px; top: 60px; background-color: transparent;}
+#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow span{height: 100%; top: 0; margin: 0;line-height: 60px; vertical-align: middle; background-color: #000;}
+#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow.IDX-carouselPrevArrow span{ width: 50px; left: 5px}
+#IDX-carouselGallery-{{widgetID}} a.IDX-carouselArrow.IDX-carouselNextArrow span {width: 50px; right: 5px;}
+```
